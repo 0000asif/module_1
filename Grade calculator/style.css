@@ -1,0 +1,41 @@
+*{
+ margin: auto;
+ padding: 0;
+}
+.continer{
+ border: 1px solid black;
+ margin-top: 1%;
+ width: 500px;
+}
+h2{
+ text-align: center;
+}
+label{
+ width: 80%;
+ margin-left: 10%;
+ margin-bottom: 15px;
+ font-size: 20px;
+}
+input{
+ width: 80%;
+ margin-left: 10%;
+ margin-bottom: 15px;
+} 
+select{
+ width: 80%;
+ margin-left: 10%;
+ margin-bottom: 15px;
+}
+button{
+ margin-left: 10%;
+ margin-bottom: 15px;
+}
+#result{
+ background-color: black;
+ margin-left: 10%;
+ width: 75%;
+ font-size: 23px;
+ text-align: center;
+ margin-bottom: 15px;
+color: #fff;
+}
